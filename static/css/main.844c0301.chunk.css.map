@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/PeopleList/PeopleList.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CCDf,MACE,cAAe","file":"main.844c0301.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n",".name {\n  cursor: pointer;\n}\n"]}
